@@ -1,0 +1,275 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ghế làm việc"
+    },
+    {
+      "id": 2,
+      "name": "Ghế công thái học"
+    },
+    {
+      "id": 3,
+      "name": "Ghế thư giản"
+    },
+    {
+      "id": 4,
+      "name": "Ghế bàn ăn"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categorieId": 1,
+      "name": "Ghế xoay văn phòng lưng lưới màu đen HOM1087T-02a",
+      "price": "2100000",
+      "detail": "Ghế xoay văn phòng lưng lưới M1087T-02 mẫu Ghế được thiết kế và sản xuất theo Design Thinking đặt người ngồi làm trọng tâm (Human-Centered Design) và những thấu cảm với người ngồi sản xuất tại Việt Nam và được phân phối bởi HomeOffice, khả năng hỗ trợ cột sống tốt hơn nệm dày đàn hồi tốt tựa lưng nhựa cao cấp bọc lưới thoáng mát, phuộc và bộ điều khiển cao cấp tiêu chuẩn BIFMA D100 chịu tải đến 100kg",
+      "image": "https://homeoffice.com.vn/images/thumbnails/640/640/detailed/28/ghe-van-phong-HOM1087T-02.jpg?t=1638898410",
+      "import_date": "2022-01-22"
+    },
+    {
+      "id": 2,
+      "categorieId": 1,
+      "name": "Ghế văn phòng chân xoay lưng lưới HOM1089-01",
+      "price": "1600000",
+      "detail": "Ghế văn phòng chân xoay lưng lưới HOM1089-01 là mẫu ghế lưng lưới thấp tay liền kết nối với hệ nệm chắc chắn, lưng và nệm ghế nhiều màu đẹp mắt. Bộ điều khiển có các tính năng: nâng hạ chiều cao, chốt ngả lưng ở một vị trí, điều chỉnh trọng lượng theo người sử dụng. Chân ghế bằng nhựa chịu lực cao với đường kính vòng chân 660mm rất vững chắc khi ngả lưng.",
+      "image": "https://homeoffice.com.vn/images/watermarked/1/detailed/46/ghe-van-phong-chan-xoay-hom1089-01a.jpg?t=1641524804",
+      "import_date": "2022-01-19"
+    },
+    {
+      "id": 3,
+      "categorieId": 2,
+      "name": "Ghế Ergonomic công thái học cao cấp CTH-07",
+      "price": "13000000",
+      "detail": "Ghế Ergonomic công thái học cao cấp CTH-07 là thuộc dòng ghế Ergonomic công thái học cao cấp với các tính năng vượt trội hỗ trợ người dùng tối đa giúp bạn có được tư thế làm việc thoải mái nhất, nâng cao hiệu suất công việc và đặc biệt bảo vệ sức khoẻ người dùng, tránh bị đau lưng, mệt mỏi và không bị thoái hóa cột sống, đau lưng, đau đốt sống cổ…những căn bệnh dễ gặp khi ngồi làm việc trong thời gian dài",
+      "image": "https://homeoffice.com.vn/images/thumbnails/640/640/detailed/45/Ghe-ergonomic-cong-thai-hoc-ERC07-01.jpg?t=1640226418",
+      "import_date": "2022-01-20"
+    },
+    {
+      "id": 4,
+      "categorieId": 2,
+      "name": "Ghế văn phòng cao cấp nhập khẩu Hàn Quốc MSA-100 GVPMT001",
+      "price": "5000000",
+      "detail": "Ghế văn phòng cao cấp nhập khẩu Hàn Quốc MSA-100 với thiết kế tựa lưng hai tầng hỗ trợ lưng và vùng thắt lưng eo ôm sát vào trục cột sống lưng. Đây là thiết kế nổi bật, hiện đại của ghế, chú trọng tới việc bảo vệ sức khỏe người sử dụng. Trục tựa lưng thép xi mạ crome bóng uốn định hình theo dáng lưng là điểm nhấn nổi bật của chiếc ghế, kiểu dáng khác lạ với các mẫu ghế hiện có trên thị trường. Ghế sử dụng bánh xe bọc nhựa Urethane  giúp làm giảm tiếng ồn, đi chuyển nhẹ nhàng và tránh làm trầy xước nền nhà.",
+      "image": "https://homeoffice.com.vn/images/thumbnails/300/300/detailed/36/ghe-cong-thai-hoc-187sjN-01.jpg?t=1635245690",
+      "import_date": "2022-01-21"
+    },
+    {
+      "id": 5,
+      "categorieId": 3,
+      "name": "Ghế đọc sách, thư giãn khung màu vàng đồng GTG68027",
+      "price": "2000000",
+      "detail": "Ghế đọc sách, thư giãn khung màu vàng đồng GTG68027 thuộc dòng sản phẩm ghế đọc sách, thư giãn của Homeoffice. Khung sắt được sơn tĩnh điện màu vàng đồng chắc chắn cùng với thiết kế đẹp mắt, độc đáo ghế GTG68027 sẽ là điểm nhấn giúp căn phòng của bạn thêm ấn tượng và có tính ứng dụng cao khi có thể vừa là nơi đọc sách vừa có thể thoải mái nghỉ ngơi.",
+      "image": "https://homeoffice.com.vn/images/thumbnails/640/640/detailed/20/ghe-thu-gian-mau-vang-dong-1.jpg?t=1638824599",
+      "import_date": "2022-01-20"
+    },
+    {
+      "categorieId": "1",
+      "name": "GBCJE-04 - Ghế bàn cao lưng nhựa bành to chân gỗ màu (trắng - đỏ - đen)",
+      "price": "1200000",
+      "detail": "Một dòng sản phẩm của ghế Eames, luôn chiếm trọn tin tưởng của khách hàng với thiết kế giản đơn, hiện đại và hoàn hảo. Phù hợp với nhiều không gian nội ngoại thất khác nhau như ghế làm việc bàn cao, quán coffe, trà sữa..v...",
+      "image": "https://homeoffice.com.vn/images/thumbnails/640/640/detailed/9/ghe-nhua-banh-to-8.jpg?t=1638878039",
+      "id": 6,
+      "import_date": "2022-01-16"
+    },
+    {
+      "id": 7,
+      "categorieId": 4,
+      "name": "Ghế Ăn - Cafe Kane chân sắt nệm vải Simili AK131",
+      "price": "1300000",
+      "detail": "Ghế Ăn - Cafe Kane chân sắt nệm vải Simili AK131thiết kế ôm lưng rất đẹp mắt với 3 màu sắc lựa chọn, mẫu ghế Kane rất phù hợp cho không gian phòng ăn hoặc Cafe trong nhà, dùng để làm việc hoặc trang điểm cũng  được. Khung chân sắt sơn tĩnh điện chắc chắn cùng nệm vải Simili bền bỉ.",
+      "image": "https://homeoffice.com.vn/images/watermarked/1/detailed/33/ghe-kane131-01.jpg?t=1627978640",
+      "import_date": "2022-01-23"
+    },
+    {
+      "id": 8,
+      "categorieId": 4,
+      "name": "Ghế cafe, ghế ăn nệm màu nâu khung sắt GSK003",
+      "price": "500000",
+      "detail": "Ghế cafe, ghế ăn nệm màu nâu khung sắt sơn tĩnh điện GSK002 với khung sắt được hoàn thiện từ sắt mang đến sự chắn chắc kết hợp cùng nệm ghế ngồi êm ái. Sản phẩm phù hợp với bàn ghế cafe, bàn ăn hoặc ghế bàn làm việc đều được ",
+      "image": "https://homeoffice.com.vn/images/watermarked/1/detailed/25/gsk003-ghe-cafe-ghe-an-3.jpg?t=1627978576",
+      "import_date": "2022-01-19"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer_name": "Nguyễn Đăng Thành",
+      "customer_address": "Cổ Lũy ,Hải Ba, Hải Lăng, Quảng Trị",
+      "customer_email": "thanhboi312@gmail.com",
+      "customer_phone_number": "0387578520",
+      "customer_note": "Giao hàng cẩn thận nhé",
+      "created_date": "2022-12-01",
+      "status": "Đã hủy"
+    },
+    {
+      "id": 2,
+      "customer_name": "Thành",
+      "customer_address": "Cổ Lũy ,Hải Ba, Hải Lăng, Quảng Trị",
+      "customer_email": "thanhboi312@gmail.com",
+      "customer_phone_number": "0387578520",
+      "customer_note": "Giao hàng nhanh nhé",
+      "created_date": "2022-12-01",
+      "status": "Đang giao"
+    },
+    {
+      "customer_name": "Thành TEST",
+      "customer_address": "Thành TEST",
+      "customer_email": "bossryo68@gmail.com",
+      "customer_phone_number": "0387578520",
+      "customer_note": "",
+      "created_date": "2022-01-20",
+      "status": "Đang giao",
+      "id": 3
+    },
+    {
+      "customer_name": "Nguyễn Đăng Thành",
+      "customer_address": "ABCCC",
+      "customer_email": "bossryo68@gmail.com",
+      "customer_phone_number": "0387578520",
+      "customer_note": "ABCCC",
+      "created_date": "2022-01-20",
+      "status": "Đã hủy",
+      "id": 4
+    },
+    {
+      "customer_name": "Nguyễn Đăng Thành",
+      "customer_address": "Nguyễn Đăng Thành",
+      "customer_email": "bossryo68@gmail.comNguyễn Đăng Thành",
+      "customer_phone_number": "2222222",
+      "customer_note": "Nguyễn Đăng Thành",
+      "created_date": "2022-01-22",
+      "status": "Đang xác nhận",
+      "id": 5
+    },
+    {
+      "customer_name": "Nguyễn Đăng Thành",
+      "customer_address": "Nguyễn Đăng Thành",
+      "customer_email": "bossryo68@gmail.com",
+      "customer_phone_number": "0387578520",
+      "customer_note": "Nguyễn Đăng Thành",
+      "created_date": "2022-02-19",
+      "status": "Đang xác nhận",
+      "id": 6
+    },
+    {
+      "customer_name": "Nguyễn Đăng Thành",
+      "customer_address": "DEMO1",
+      "customer_email": "thanh@gmail.com",
+      "customer_phone_number": "0387578520",
+      "customer_note": "DEMO1",
+      "created_date": "2022-02-19",
+      "status": "Đang giao",
+      "id": 7
+    }
+  ],
+  "order_details": [
+    {
+      "id": 1,
+      "orderId": 1,
+      "productId": 2,
+      "quantity": 5,
+      "unit_price": 8000000
+    },
+    {
+      "id": 2,
+      "orderId": 1,
+      "productId": 5,
+      "quantity": 2,
+      "unit_price": 4000000
+    },
+    {
+      "id": 3,
+      "orderId": 2,
+      "productId": 5,
+      "quantity": 5,
+      "unit_price": 10000000
+    },
+    {
+      "orderId": 3,
+      "productId": 1,
+      "quantity": 6,
+      "unit_price": 12600000,
+      "id": 4
+    },
+    {
+      "orderId": 3,
+      "productId": 2,
+      "quantity": 1,
+      "unit_price": 1600000,
+      "id": 5
+    },
+    {
+      "orderId": 4,
+      "productId": 7,
+      "quantity": 7,
+      "unit_price": 9100000,
+      "id": 6
+    },
+    {
+      "orderId": 5,
+      "productId": 2,
+      "quantity": 1,
+      "unit_price": 1600000,
+      "id": 7
+    },
+    {
+      "orderId": 6,
+      "productId": 5,
+      "quantity": 1,
+      "unit_price": 2000000,
+      "id": 8
+    },
+    {
+      "orderId": 7,
+      "productId": 1,
+      "quantity": 2,
+      "unit_price": 4200000,
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Nguyễn Đăng Thành",
+      "productId": 5,
+      "content": "Tôi rất thích sản phẩm này",
+      "date": "2022-01-10"
+    },
+    {
+      "name": "Nguyễn Quang Minh",
+      "productId": "4",
+      "content": "Sản phẩm này rất tốt",
+      "date": "2022-01-20",
+      "id": 2
+    },
+    {
+      "name": "Nam",
+      "productId": "5",
+      "content": "Sản phẩm tuyệt vời",
+      "date": "2022-01-20",
+      "id": 3
+    },
+    {
+      "name": "Thành",
+      "productId": "7",
+      "content": "ABC",
+      "date": "2022-01-20",
+      "id": 4
+    },
+    {
+      "name": "Nguyễn Văn Nam",
+      "productId": "8",
+      "content": "Tôi rất thích sản phẩm này",
+      "date": "2022-01-22",
+      "id": 5
+    },
+    {
+      "name": "Thành",
+      "productId": "7",
+      "content": "Hello",
+      "date": "2022-02-19",
+      "id": 6
+    }
+  ]
+}
